@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 078041d13c6a10040a36a751631abe19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1006487596531131921
+    second: crystal-cluster-pink_16px_scroller_shadow_0
+  - first:
+      213: 7385783085689611261
+    second: crystal-cluster-pink_16px_scroller_shadow_1
+  - first:
+      213: -2830034860981536150
+    second: crystal-cluster-pink_16px_scroller_shadow_2
+  - first:
+      213: -3982766471374059099
+    second: crystal-cluster-pink_16px_scroller_shadow_3
+  - first:
+      213: -7899619902442926987
+    second: crystal-cluster-pink_16px_scroller_shadow_4
+  - first:
+      213: 5077439665892322684
+    second: crystal-cluster-pink_16px_scroller_shadow_5
+  - first:
+      213: 3595933746284902462
+    second: crystal-cluster-pink_16px_scroller_shadow_6
+  - first:
+      213: 8738700993582977683
+    second: crystal-cluster-pink_16px_scroller_shadow_7
+  - first:
+      213: -5780338170845383534
+    second: crystal-cluster-pink_16px_scroller_shadow_8
+  - first:
+      213: 6545685535993132701
+    second: crystal-cluster-pink_16px_scroller_shadow_9
+  - first:
+      213: 1605253177138382922
+    second: crystal-cluster-pink_16px_scroller_shadow_10
+  - first:
+      213: -2289832473005646885
+    second: crystal-cluster-pink_16px_scroller_shadow_11
+  - first:
+      213: -5361581844399632210
+    second: crystal-cluster-pink_16px_scroller_shadow_12
+  - first:
+      213: -1800592004584506305
+    second: crystal-cluster-pink_16px_scroller_shadow_13
+  - first:
+      213: 7318584544496509262
+    second: crystal-cluster-pink_16px_scroller_shadow_14
+  - first:
+      213: -143247109596578072
+    second: crystal-cluster-pink_16px_scroller_shadow_15
+  - first:
+      213: -3983565805452929540
+    second: crystal-cluster-pink_16px_scroller_shadow_16
+  - first:
+      213: -880916406703859984
+    second: crystal-cluster-pink_16px_scroller_shadow_17
+  - first:
+      213: -2463303579275213769
+    second: crystal-cluster-pink_16px_scroller_shadow_18
+  - first:
+      213: 4314986968609838973
+    second: crystal-cluster-pink_16px_scroller_shadow_19
+  - first:
+      213: -4333747991028810136
+    second: crystal-cluster-pink_16px_scroller_shadow_20
+  - first:
+      213: 3950764418244860160
+    second: crystal-cluster-pink_16px_scroller_shadow_21
+  - first:
+      213: -2126969749653169591
+    second: crystal-cluster-pink_16px_scroller_shadow_22
+  - first:
+      213: 4080351773594033497
+    second: crystal-cluster-pink_16px_scroller_shadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116231ee223c7fd00800000000000000
+      internalID: 1006487596531131921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df32e9ab5929f7660800000000000000
+      internalID: 7385783085689611261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a3931c942b9b8d0800000000000000
+      internalID: -2830034860981536150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9c962fefe5ab8c0800000000000000
+      internalID: -3982766471374059099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c884e7d89ee5290800000000000000
+      internalID: -7899619902442926987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d6df58970b67640800000000000000
+      internalID: 5077439665892322684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38b62fa0b257e130800000000000000
+      internalID: 3595933746284902462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392ddd8014a164970800000000000000
+      internalID: 8738700993582977683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29431252f0d18cfa0800000000000000
+      internalID: -5780338170845383534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9678408052f6da50800000000000000
+      internalID: 6545685535993132701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4886e57241074610800000000000000
+      internalID: 1605253177138382922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb18537f71e830e0800000000000000
+      internalID: -2289832473005646885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0506a28b5d795b0800000000000000
+      internalID: -5361581844399632210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cf45d9c130307e0800000000000000
+      internalID: -1800592004584506305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e0612ed5d09560800000000000000
+      internalID: 7318584544496509262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eef4654385130ef0800000000000000
+      internalID: -143247109596578072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5d59a710887b8c0800000000000000
+      internalID: -3983565805452929540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f65a95023b56c3f0800000000000000
+      internalID: -880916406703859984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7344a5f127690ddd0800000000000000
+      internalID: -2463303579275213769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77dd6249c9e1eb30800000000000000
+      internalID: 4314986968609838973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e3aa0d92f6bd3c0800000000000000
+      internalID: -4333747991028810136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009dcbc6e4fe3d630800000000000000
+      internalID: 3950764418244860160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94adbe7284c7b72e0800000000000000
+      internalID: -2126969749653169591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-cluster-pink_16px_scroller_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d15b7c15250a830800000000000000
+      internalID: 4080351773594033497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crystal-cluster-pink_16px_scroller_shadow_0: 1006487596531131921
+      crystal-cluster-pink_16px_scroller_shadow_1: 7385783085689611261
+      crystal-cluster-pink_16px_scroller_shadow_10: 1605253177138382922
+      crystal-cluster-pink_16px_scroller_shadow_11: -2289832473005646885
+      crystal-cluster-pink_16px_scroller_shadow_12: -5361581844399632210
+      crystal-cluster-pink_16px_scroller_shadow_13: -1800592004584506305
+      crystal-cluster-pink_16px_scroller_shadow_14: 7318584544496509262
+      crystal-cluster-pink_16px_scroller_shadow_15: -143247109596578072
+      crystal-cluster-pink_16px_scroller_shadow_16: -3983565805452929540
+      crystal-cluster-pink_16px_scroller_shadow_17: -880916406703859984
+      crystal-cluster-pink_16px_scroller_shadow_18: -2463303579275213769
+      crystal-cluster-pink_16px_scroller_shadow_19: 4314986968609838973
+      crystal-cluster-pink_16px_scroller_shadow_2: -2830034860981536150
+      crystal-cluster-pink_16px_scroller_shadow_20: -4333747991028810136
+      crystal-cluster-pink_16px_scroller_shadow_21: 3950764418244860160
+      crystal-cluster-pink_16px_scroller_shadow_22: -2126969749653169591
+      crystal-cluster-pink_16px_scroller_shadow_23: 4080351773594033497
+      crystal-cluster-pink_16px_scroller_shadow_3: -3982766471374059099
+      crystal-cluster-pink_16px_scroller_shadow_4: -7899619902442926987
+      crystal-cluster-pink_16px_scroller_shadow_5: 5077439665892322684
+      crystal-cluster-pink_16px_scroller_shadow_6: 3595933746284902462
+      crystal-cluster-pink_16px_scroller_shadow_7: 8738700993582977683
+      crystal-cluster-pink_16px_scroller_shadow_8: -5780338170845383534
+      crystal-cluster-pink_16px_scroller_shadow_9: 6545685535993132701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

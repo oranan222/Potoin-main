@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 6f06d59d70c63ef4c9e11b6737bcf20f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1271880201647283632
+    second: crystal-ball-violet_64px_scroller_normal_0
+  - first:
+      213: 1225671521459692871
+    second: crystal-ball-violet_64px_scroller_normal_1
+  - first:
+      213: 7282346208318519039
+    second: crystal-ball-violet_64px_scroller_normal_2
+  - first:
+      213: 1013578961473440572
+    second: crystal-ball-violet_64px_scroller_normal_3
+  - first:
+      213: 4289416766920607263
+    second: crystal-ball-violet_64px_scroller_normal_4
+  - first:
+      213: 9082934838768625995
+    second: crystal-ball-violet_64px_scroller_normal_5
+  - first:
+      213: -2785133988591170044
+    second: crystal-ball-violet_64px_scroller_normal_6
+  - first:
+      213: -5152318182407885120
+    second: crystal-ball-violet_64px_scroller_normal_7
+  - first:
+      213: 9001995529477843701
+    second: crystal-ball-violet_64px_scroller_normal_8
+  - first:
+      213: 1869430573807469972
+    second: crystal-ball-violet_64px_scroller_normal_9
+  - first:
+      213: -4030815552409031986
+    second: crystal-ball-violet_64px_scroller_normal_10
+  - first:
+      213: 3972458363130922580
+    second: crystal-ball-violet_64px_scroller_normal_11
+  - first:
+      213: -643342865128961366
+    second: crystal-ball-violet_64px_scroller_normal_12
+  - first:
+      213: 983062985306244859
+    second: crystal-ball-violet_64px_scroller_normal_13
+  - first:
+      213: -7326370550324144126
+    second: crystal-ball-violet_64px_scroller_normal_14
+  - first:
+      213: 1581153885055573607
+    second: crystal-ball-violet_64px_scroller_normal_15
+  - first:
+      213: 7283267190839258071
+    second: crystal-ball-violet_64px_scroller_normal_16
+  - first:
+      213: -4251035640580778531
+    second: crystal-ball-violet_64px_scroller_normal_17
+  - first:
+      213: 2173038681429955699
+    second: crystal-ball-violet_64px_scroller_normal_18
+  - first:
+      213: 7804178780006366547
+    second: crystal-ball-violet_64px_scroller_normal_19
+  - first:
+      213: -3119112458605879729
+    second: crystal-ball-violet_64px_scroller_normal_20
+  - first:
+      213: -5832142943518973454
+    second: crystal-ball-violet_64px_scroller_normal_21
+  - first:
+      213: -2406394025613064676
+    second: crystal-ball-violet_64px_scroller_normal_22
+  - first:
+      213: -5201984782148867920
+    second: crystal-ball-violet_64px_scroller_normal_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdd9000e40a6a110800000000000000
+      internalID: 1271880201647283632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745eaef31c5720110800000000000000
+      internalID: 1225671521459692871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6fc3efa47101560800000000000000
+      internalID: 7282346208318519039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b0f6ef1b4f01e00800000000000000
+      internalID: 1013578961473440572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1648edb2d1178b30800000000000000
+      internalID: 4289416766920607263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49e2d6cc111d0e70800000000000000
+      internalID: 9082934838768625995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e0826c4673959d0800000000000000
+      internalID: -2785133988591170044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceaac749e94f78b0800000000000000
+      internalID: -5152318182407885120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa6e2c4d338dec70800000000000000
+      internalID: 9001995529477843701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4958c04c33d81f910800000000000000
+      internalID: 1869430573807469972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca2a8b7c9aaf08c0800000000000000
+      internalID: -4030815552409031986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456c27395d1012730800000000000000
+      internalID: 3972458363130922580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_12
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaac43f92136217f0800000000000000
+      internalID: -643342865128961366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_13
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6830f939a84ad00800000000000000
+      internalID: 983062985306244859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_14
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208db0f1dc0835a90800000000000000
+      internalID: -7326370550324144126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_15
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e57f5c41361f510800000000000000
+      internalID: 1581153885055573607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_16
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db2b32fbec531560800000000000000
+      internalID: 7283267190839258071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_17
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd558ab9b994105c0800000000000000
+      internalID: -4251035640580778531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_18
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374d0d1ea2f282e10800000000000000
+      internalID: 2173038681429955699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_19
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dbbe980430e4c60800000000000000
+      internalID: 7804178780006366547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_20
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e1d42aebfa6b4d0800000000000000
+      internalID: -3119112458605879729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_21
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1204494e0101fa0800000000000000
+      internalID: -5832142943518973454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_22
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1606b12265ca9ed0800000000000000
+      internalID: -2406394025613064676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal-ball-violet_64px_scroller_normal_23
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b86705e666dec7b0800000000000000
+      internalID: -5201984782148867920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crystal-ball-violet_64px_scroller_normal_0: 1271880201647283632
+      crystal-ball-violet_64px_scroller_normal_1: 1225671521459692871
+      crystal-ball-violet_64px_scroller_normal_10: -4030815552409031986
+      crystal-ball-violet_64px_scroller_normal_11: 3972458363130922580
+      crystal-ball-violet_64px_scroller_normal_12: -643342865128961366
+      crystal-ball-violet_64px_scroller_normal_13: 983062985306244859
+      crystal-ball-violet_64px_scroller_normal_14: -7326370550324144126
+      crystal-ball-violet_64px_scroller_normal_15: 1581153885055573607
+      crystal-ball-violet_64px_scroller_normal_16: 7283267190839258071
+      crystal-ball-violet_64px_scroller_normal_17: -4251035640580778531
+      crystal-ball-violet_64px_scroller_normal_18: 2173038681429955699
+      crystal-ball-violet_64px_scroller_normal_19: 7804178780006366547
+      crystal-ball-violet_64px_scroller_normal_2: 7282346208318519039
+      crystal-ball-violet_64px_scroller_normal_20: -3119112458605879729
+      crystal-ball-violet_64px_scroller_normal_21: -5832142943518973454
+      crystal-ball-violet_64px_scroller_normal_22: -2406394025613064676
+      crystal-ball-violet_64px_scroller_normal_23: -5201984782148867920
+      crystal-ball-violet_64px_scroller_normal_3: 1013578961473440572
+      crystal-ball-violet_64px_scroller_normal_4: 4289416766920607263
+      crystal-ball-violet_64px_scroller_normal_5: 9082934838768625995
+      crystal-ball-violet_64px_scroller_normal_6: -2785133988591170044
+      crystal-ball-violet_64px_scroller_normal_7: -5152318182407885120
+      crystal-ball-violet_64px_scroller_normal_8: 9001995529477843701
+      crystal-ball-violet_64px_scroller_normal_9: 1869430573807469972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

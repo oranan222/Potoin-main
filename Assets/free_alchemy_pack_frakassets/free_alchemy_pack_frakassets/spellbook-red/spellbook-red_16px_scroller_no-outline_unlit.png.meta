@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: f0a60c7ef6f4fa9409e2a07f36ec59a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6288451727373372976
+    second: spellbook-red_16px_scroller_no-outline_unlit_0
+  - first:
+      213: -5897577479792282677
+    second: spellbook-red_16px_scroller_no-outline_unlit_1
+  - first:
+      213: -1235001296696533013
+    second: spellbook-red_16px_scroller_no-outline_unlit_2
+  - first:
+      213: 6131993825612128530
+    second: spellbook-red_16px_scroller_no-outline_unlit_3
+  - first:
+      213: -139844818182931451
+    second: spellbook-red_16px_scroller_no-outline_unlit_4
+  - first:
+      213: 827563436993442059
+    second: spellbook-red_16px_scroller_no-outline_unlit_5
+  - first:
+      213: 6876849658852142122
+    second: spellbook-red_16px_scroller_no-outline_unlit_6
+  - first:
+      213: -3352541087713836267
+    second: spellbook-red_16px_scroller_no-outline_unlit_7
+  - first:
+      213: -4209632529242315413
+    second: spellbook-red_16px_scroller_no-outline_unlit_8
+  - first:
+      213: 3001502571635778623
+    second: spellbook-red_16px_scroller_no-outline_unlit_9
+  - first:
+      213: -4493701284013580642
+    second: spellbook-red_16px_scroller_no-outline_unlit_10
+  - first:
+      213: 5858104781287454294
+    second: spellbook-red_16px_scroller_no-outline_unlit_11
+  - first:
+      213: 429756782297958835
+    second: spellbook-red_16px_scroller_no-outline_unlit_12
+  - first:
+      213: 7229841798778506012
+    second: spellbook-red_16px_scroller_no-outline_unlit_13
+  - first:
+      213: 7349724699576491086
+    second: spellbook-red_16px_scroller_no-outline_unlit_14
+  - first:
+      213: -1235354381094749444
+    second: spellbook-red_16px_scroller_no-outline_unlit_15
+  - first:
+      213: -6139514825414844967
+    second: spellbook-red_16px_scroller_no-outline_unlit_16
+  - first:
+      213: 5181815441743004590
+    second: spellbook-red_16px_scroller_no-outline_unlit_17
+  - first:
+      213: -1389327037420292747
+    second: spellbook-red_16px_scroller_no-outline_unlit_18
+  - first:
+      213: 3755678181238131
+    second: spellbook-red_16px_scroller_no-outline_unlit_19
+  - first:
+      213: -2405356081689220516
+    second: spellbook-red_16px_scroller_no-outline_unlit_20
+  - first:
+      213: -3213815772166842486
+    second: spellbook-red_16px_scroller_no-outline_unlit_21
+  - first:
+      213: -6557041725758619152
+    second: spellbook-red_16px_scroller_no-outline_unlit_22
+  - first:
+      213: -2564875669647690100
+    second: spellbook-red_16px_scroller_no-outline_unlit_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e08454781154750800000000000000
+      internalID: 6288451727373372976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc333a16788972ea0800000000000000
+      internalID: -5897577479792282677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef914d2dd46cdee0800000000000000
+      internalID: -1235001296696533013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211ef7c45e7391550800000000000000
+      internalID: 6131993825612128530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cf688f0eb2f0ef0800000000000000
+      internalID: -139844818182931451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b017813bf881c7b00800000000000000
+      internalID: 827563436993442059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ce5a1645a7f6f50800000000000000
+      internalID: 6876849658852142122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5134aeba4a16971d0800000000000000
+      internalID: -3352541087713836267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65259ba4816495c0800000000000000
+      internalID: -4209632529242315413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34a5ceafaa77a920800000000000000
+      internalID: 3001502571635778623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e57a7ad7a23a1c0800000000000000
+      internalID: -4493701284013580642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656f7a1d24b2c4150800000000000000
+      internalID: 5858104781287454294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b94fac348dc6f500800000000000000
+      internalID: 429756782297958835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bc6768fce855460800000000000000
+      internalID: 7229841798778506012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cdb2b7ca77ff560800000000000000
+      internalID: 7349724699576491086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaff1f4cb32bdee0800000000000000
+      internalID: -1235354381094749444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd57e97bcf0ccaa0800000000000000
+      internalID: -6139514825414844967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3c9b890b189e740800000000000000
+      internalID: 5181815441743004590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575b7b1ab6e18bce0800000000000000
+      internalID: -1389327037420292747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37522e7f4c75d0000800000000000000
+      internalID: 3755678181238131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_20
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aa69843657e9ed0800000000000000
+      internalID: -2405356081689220516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87927e259b3663d0800000000000000
+      internalID: -3213815772166842486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_22
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f14eb68a45b005a0800000000000000
+      internalID: -6557041725758619152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spellbook-red_16px_scroller_no-outline_unlit_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c867b91fa2bb76cd0800000000000000
+      internalID: -2564875669647690100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spellbook-red_16px_scroller_no-outline_unlit_0: 6288451727373372976
+      spellbook-red_16px_scroller_no-outline_unlit_1: -5897577479792282677
+      spellbook-red_16px_scroller_no-outline_unlit_10: -4493701284013580642
+      spellbook-red_16px_scroller_no-outline_unlit_11: 5858104781287454294
+      spellbook-red_16px_scroller_no-outline_unlit_12: 429756782297958835
+      spellbook-red_16px_scroller_no-outline_unlit_13: 7229841798778506012
+      spellbook-red_16px_scroller_no-outline_unlit_14: 7349724699576491086
+      spellbook-red_16px_scroller_no-outline_unlit_15: -1235354381094749444
+      spellbook-red_16px_scroller_no-outline_unlit_16: -6139514825414844967
+      spellbook-red_16px_scroller_no-outline_unlit_17: 5181815441743004590
+      spellbook-red_16px_scroller_no-outline_unlit_18: -1389327037420292747
+      spellbook-red_16px_scroller_no-outline_unlit_19: 3755678181238131
+      spellbook-red_16px_scroller_no-outline_unlit_2: -1235001296696533013
+      spellbook-red_16px_scroller_no-outline_unlit_20: -2405356081689220516
+      spellbook-red_16px_scroller_no-outline_unlit_21: -3213815772166842486
+      spellbook-red_16px_scroller_no-outline_unlit_22: -6557041725758619152
+      spellbook-red_16px_scroller_no-outline_unlit_23: -2564875669647690100
+      spellbook-red_16px_scroller_no-outline_unlit_3: 6131993825612128530
+      spellbook-red_16px_scroller_no-outline_unlit_4: -139844818182931451
+      spellbook-red_16px_scroller_no-outline_unlit_5: 827563436993442059
+      spellbook-red_16px_scroller_no-outline_unlit_6: 6876849658852142122
+      spellbook-red_16px_scroller_no-outline_unlit_7: -3352541087713836267
+      spellbook-red_16px_scroller_no-outline_unlit_8: -4209632529242315413
+      spellbook-red_16px_scroller_no-outline_unlit_9: 3001502571635778623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

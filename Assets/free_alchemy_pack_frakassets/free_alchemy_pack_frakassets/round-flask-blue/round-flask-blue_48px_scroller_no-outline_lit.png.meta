@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 89cefe188cc92c0479c46a03f17c1ed4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7947172512193699451
+    second: round-flask-blue_48px_scroller_no-outline_lit_0
+  - first:
+      213: -326902460687542079
+    second: round-flask-blue_48px_scroller_no-outline_lit_1
+  - first:
+      213: -4111243556482302040
+    second: round-flask-blue_48px_scroller_no-outline_lit_2
+  - first:
+      213: 8542842018880640190
+    second: round-flask-blue_48px_scroller_no-outline_lit_3
+  - first:
+      213: 2585445425215618473
+    second: round-flask-blue_48px_scroller_no-outline_lit_4
+  - first:
+      213: 8352980844613921803
+    second: round-flask-blue_48px_scroller_no-outline_lit_5
+  - first:
+      213: 4633108765998794230
+    second: round-flask-blue_48px_scroller_no-outline_lit_6
+  - first:
+      213: 9030772050805891389
+    second: round-flask-blue_48px_scroller_no-outline_lit_7
+  - first:
+      213: 3677511667100985957
+    second: round-flask-blue_48px_scroller_no-outline_lit_8
+  - first:
+      213: -2350918699700367874
+    second: round-flask-blue_48px_scroller_no-outline_lit_9
+  - first:
+      213: -5419690908030800740
+    second: round-flask-blue_48px_scroller_no-outline_lit_10
+  - first:
+      213: -4798702522013554295
+    second: round-flask-blue_48px_scroller_no-outline_lit_11
+  - first:
+      213: 1166423790447033025
+    second: round-flask-blue_48px_scroller_no-outline_lit_12
+  - first:
+      213: -7589095819514147524
+    second: round-flask-blue_48px_scroller_no-outline_lit_13
+  - first:
+      213: -5116768210007460643
+    second: round-flask-blue_48px_scroller_no-outline_lit_14
+  - first:
+      213: 2067132246093144165
+    second: round-flask-blue_48px_scroller_no-outline_lit_15
+  - first:
+      213: -2499208956119021678
+    second: round-flask-blue_48px_scroller_no-outline_lit_16
+  - first:
+      213: -3976845956716980782
+    second: round-flask-blue_48px_scroller_no-outline_lit_17
+  - first:
+      213: -2304460649421679029
+    second: round-flask-blue_48px_scroller_no-outline_lit_18
+  - first:
+      213: -5028340111742435486
+    second: round-flask-blue_48px_scroller_no-outline_lit_19
+  - first:
+      213: 655329796016794645
+    second: round-flask-blue_48px_scroller_no-outline_lit_20
+  - first:
+      213: 2354374770950017924
+    second: round-flask-blue_48px_scroller_no-outline_lit_21
+  - first:
+      213: 707775537097850800
+    second: round-flask-blue_48px_scroller_no-outline_lit_22
+  - first:
+      213: 6778842058777704577
+    second: round-flask-blue_48px_scroller_no-outline_lit_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7edd0e3b470a4e60800000000000000
+      internalID: 7947172512193699451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8948aa1fb967bf0800000000000000
+      internalID: -326902460687542079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af32c684cde1f6c0800000000000000
+      internalID: -4111243556482302040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb459a3ed854e8670800000000000000
+      internalID: 8542842018880640190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adb22c7ae851e320800000000000000
+      internalID: 2585445425215618473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ceada72dfbbe370800000000000000
+      internalID: 8352980844613921803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f54b1b10eb1c4040800000000000000
+      internalID: 4633108765998794230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31afc7455fb35d70800000000000000
+      internalID: 9030772050805891389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aa8ee7065290330800000000000000
+      internalID: 3677511667100985957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd4988f5ebdf5fd0800000000000000
+      internalID: -2350918699700367874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ce86a75d369c4b0800000000000000
+      internalID: -5419690908030800740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9896c981b75976db0800000000000000
+      internalID: -4798702522013554295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caf827e148ff2010800000000000000
+      internalID: 1166423790447033025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d05779f8d1ea690800000000000000
+      internalID: -7589095819514147524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd47e7c3c669df8b0800000000000000
+      internalID: -5116768210007460643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560232063ddefac10800000000000000
+      internalID: 2067132246093144165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2970d0f12b6015dd0800000000000000
+      internalID: -2499208956119021678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d59f6f2ca76fc8c0800000000000000
+      internalID: -3976845956716980782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46da58bf39e400e0800000000000000
+      internalID: -2304460649421679029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_19
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f7eb54f4fb73ab0800000000000000
+      internalID: -5028340111742435486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_20
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c6f463af2381900800000000000000
+      internalID: 655329796016794645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_21
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4831e92516b6ca020800000000000000
+      internalID: 2354374770950017924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_22
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfbd6dd91682d900800000000000000
+      internalID: 707775537097850800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: round-flask-blue_48px_scroller_no-outline_lit_23
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1883ce5cfe8431e50800000000000000
+      internalID: 6778842058777704577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      round-flask-blue_48px_scroller_no-outline_lit_0: 7947172512193699451
+      round-flask-blue_48px_scroller_no-outline_lit_1: -326902460687542079
+      round-flask-blue_48px_scroller_no-outline_lit_10: -5419690908030800740
+      round-flask-blue_48px_scroller_no-outline_lit_11: -4798702522013554295
+      round-flask-blue_48px_scroller_no-outline_lit_12: 1166423790447033025
+      round-flask-blue_48px_scroller_no-outline_lit_13: -7589095819514147524
+      round-flask-blue_48px_scroller_no-outline_lit_14: -5116768210007460643
+      round-flask-blue_48px_scroller_no-outline_lit_15: 2067132246093144165
+      round-flask-blue_48px_scroller_no-outline_lit_16: -2499208956119021678
+      round-flask-blue_48px_scroller_no-outline_lit_17: -3976845956716980782
+      round-flask-blue_48px_scroller_no-outline_lit_18: -2304460649421679029
+      round-flask-blue_48px_scroller_no-outline_lit_19: -5028340111742435486
+      round-flask-blue_48px_scroller_no-outline_lit_2: -4111243556482302040
+      round-flask-blue_48px_scroller_no-outline_lit_20: 655329796016794645
+      round-flask-blue_48px_scroller_no-outline_lit_21: 2354374770950017924
+      round-flask-blue_48px_scroller_no-outline_lit_22: 707775537097850800
+      round-flask-blue_48px_scroller_no-outline_lit_23: 6778842058777704577
+      round-flask-blue_48px_scroller_no-outline_lit_3: 8542842018880640190
+      round-flask-blue_48px_scroller_no-outline_lit_4: 2585445425215618473
+      round-flask-blue_48px_scroller_no-outline_lit_5: 8352980844613921803
+      round-flask-blue_48px_scroller_no-outline_lit_6: 4633108765998794230
+      round-flask-blue_48px_scroller_no-outline_lit_7: 9030772050805891389
+      round-flask-blue_48px_scroller_no-outline_lit_8: 3677511667100985957
+      round-flask-blue_48px_scroller_no-outline_lit_9: -2350918699700367874
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

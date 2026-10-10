@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 3d17cc4826a43254d9750254da5e8596
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7188423442511809171
+    second: heart-bottle-red_32px_scroller_shadow_0
+  - first:
+      213: 8444240811994872518
+    second: heart-bottle-red_32px_scroller_shadow_1
+  - first:
+      213: -4291650698232304214
+    second: heart-bottle-red_32px_scroller_shadow_2
+  - first:
+      213: -2129607499932722948
+    second: heart-bottle-red_32px_scroller_shadow_3
+  - first:
+      213: 4560567036335084389
+    second: heart-bottle-red_32px_scroller_shadow_4
+  - first:
+      213: -4082736107740584575
+    second: heart-bottle-red_32px_scroller_shadow_5
+  - first:
+      213: 2810023735375574590
+    second: heart-bottle-red_32px_scroller_shadow_6
+  - first:
+      213: -1856907805514270697
+    second: heart-bottle-red_32px_scroller_shadow_7
+  - first:
+      213: 3361950372939571641
+    second: heart-bottle-red_32px_scroller_shadow_8
+  - first:
+      213: 7778503610637825817
+    second: heart-bottle-red_32px_scroller_shadow_9
+  - first:
+      213: 6675424169686562085
+    second: heart-bottle-red_32px_scroller_shadow_10
+  - first:
+      213: 3279165996130799735
+    second: heart-bottle-red_32px_scroller_shadow_11
+  - first:
+      213: 3178940249687461420
+    second: heart-bottle-red_32px_scroller_shadow_12
+  - first:
+      213: -6691194130051972171
+    second: heart-bottle-red_32px_scroller_shadow_13
+  - first:
+      213: 9133275922236770746
+    second: heart-bottle-red_32px_scroller_shadow_14
+  - first:
+      213: -6770096407655493797
+    second: heart-bottle-red_32px_scroller_shadow_15
+  - first:
+      213: 3592220501599662514
+    second: heart-bottle-red_32px_scroller_shadow_16
+  - first:
+      213: -1854149650647633141
+    second: heart-bottle-red_32px_scroller_shadow_17
+  - first:
+      213: -1257026943604724314
+    second: heart-bottle-red_32px_scroller_shadow_18
+  - first:
+      213: -9084833939242661576
+    second: heart-bottle-red_32px_scroller_shadow_19
+  - first:
+      213: -329426253319468412
+    second: heart-bottle-red_32px_scroller_shadow_20
+  - first:
+      213: -4591983554006277358
+    second: heart-bottle-red_32px_scroller_shadow_21
+  - first:
+      213: -4754827108779219366
+    second: heart-bottle-red_32px_scroller_shadow_22
+  - first:
+      213: 4236673083314110842
+    second: heart-bottle-red_32px_scroller_shadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ac10af80962c360800000000000000
+      internalID: 7188423442511809171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca7fcc6748ff2570800000000000000
+      internalID: 8444240811994872518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad6ec79d6ef074c0800000000000000
+      internalID: -4291650698232304214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8908f034d1272e0800000000000000
+      internalID: -2129607499932722948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563db1f7e836a4f30800000000000000
+      internalID: 4560567036335084389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185267a24253757c0800000000000000
+      internalID: -4082736107740584575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e363a7df2b53ff620800000000000000
+      internalID: 2810023735375574590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718fbaf6030fa36e0800000000000000
+      internalID: -1856907805514270697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b12e834d0c08ae20800000000000000
+      internalID: 3361950372939571641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917392452dbc2fb60800000000000000
+      internalID: 7778503610637825817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52579371aeed3ac50800000000000000
+      internalID: 6675424169686562085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7709ae68910f18d20800000000000000
+      internalID: 3279165996130799735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e00d8705ddd1c20800000000000000
+      internalID: 3178940249687461420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3c213e36a1423a0800000000000000
+      internalID: -6691194130051972171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab90d84af0aefbe70800000000000000
+      internalID: 9133275922236770746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fcb8ecf29cb02a0800000000000000
+      internalID: -6770096407655493797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b139b883812ad130800000000000000
+      internalID: 3592220501599662514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03bbb867bcb446e0800000000000000
+      internalID: -1854149650647633141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad6851a7a42e8ee0800000000000000
+      internalID: -1257026943604724314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83947007aaf2ce180800000000000000
+      internalID: -9084833939242661576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a84376194ad6bf0800000000000000
+      internalID: -329426253319468412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2132509794ff540c0800000000000000
+      internalID: -4591983554006277358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5621dccfe5730eb0800000000000000
+      internalID: -4754827108779219366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-bottle-red_32px_scroller_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a718560f8bfabca30800000000000000
+      internalID: 4236673083314110842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      heart-bottle-red_32px_scroller_shadow_0: 7188423442511809171
+      heart-bottle-red_32px_scroller_shadow_1: 8444240811994872518
+      heart-bottle-red_32px_scroller_shadow_10: 6675424169686562085
+      heart-bottle-red_32px_scroller_shadow_11: 3279165996130799735
+      heart-bottle-red_32px_scroller_shadow_12: 3178940249687461420
+      heart-bottle-red_32px_scroller_shadow_13: -6691194130051972171
+      heart-bottle-red_32px_scroller_shadow_14: 9133275922236770746
+      heart-bottle-red_32px_scroller_shadow_15: -6770096407655493797
+      heart-bottle-red_32px_scroller_shadow_16: 3592220501599662514
+      heart-bottle-red_32px_scroller_shadow_17: -1854149650647633141
+      heart-bottle-red_32px_scroller_shadow_18: -1257026943604724314
+      heart-bottle-red_32px_scroller_shadow_19: -9084833939242661576
+      heart-bottle-red_32px_scroller_shadow_2: -4291650698232304214
+      heart-bottle-red_32px_scroller_shadow_20: -329426253319468412
+      heart-bottle-red_32px_scroller_shadow_21: -4591983554006277358
+      heart-bottle-red_32px_scroller_shadow_22: -4754827108779219366
+      heart-bottle-red_32px_scroller_shadow_23: 4236673083314110842
+      heart-bottle-red_32px_scroller_shadow_3: -2129607499932722948
+      heart-bottle-red_32px_scroller_shadow_4: 4560567036335084389
+      heart-bottle-red_32px_scroller_shadow_5: -4082736107740584575
+      heart-bottle-red_32px_scroller_shadow_6: 2810023735375574590
+      heart-bottle-red_32px_scroller_shadow_7: -1856907805514270697
+      heart-bottle-red_32px_scroller_shadow_8: 3361950372939571641
+      heart-bottle-red_32px_scroller_shadow_9: 7778503610637825817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

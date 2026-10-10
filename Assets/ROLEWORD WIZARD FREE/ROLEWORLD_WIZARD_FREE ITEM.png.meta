@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 8b0920b916a0f1b4d8a28b6c8dfe7362
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5979817360535769226
+    second: ROLEWORLD_WIZARD_FREE ITEM_0
+  - first:
+      213: 5404011839744765351
+    second: ROLEWORLD_WIZARD_FREE ITEM_1
+  - first:
+      213: 413531942579354819
+    second: ROLEWORLD_WIZARD_FREE ITEM_2
+  - first:
+      213: 6381615262501586334
+    second: ROLEWORLD_WIZARD_FREE ITEM_3
+  - first:
+      213: -6101157535054298875
+    second: ROLEWORLD_WIZARD_FREE ITEM_4
+  - first:
+      213: -1502836459029525507
+    second: ROLEWORLD_WIZARD_FREE ITEM_5
+  - first:
+      213: 973467001952247409
+    second: ROLEWORLD_WIZARD_FREE ITEM_6
+  - first:
+      213: -7284128075241588751
+    second: ROLEWORLD_WIZARD_FREE ITEM_7
+  - first:
+      213: 8014859840218610527
+    second: ROLEWORLD_WIZARD_FREE ITEM_8
+  - first:
+      213: 4723565858467594487
+    second: ROLEWORLD_WIZARD_FREE ITEM_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ROLEWORLD_WIZARD_FREE ITEM_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f2d830bcb630da0800000000000000
+      internalID: -5979817360535769226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROLEWORLD_WIZARD_FREE ITEM_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adedf5f228eefa40800000000000000
+      internalID: 5404011839744765351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROLEWORLD_WIZARD_FREE ITEM_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc38bc5c192db500800000000000000
+      internalID: 413531942579354819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROLEWORLD_WIZARD_FREE ITEM_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e954e9e154d009850800000000000000
+      internalID: 6381615262501586334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROLEWORLD_WIZARD_FREE ITEM_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50104641c85545ba0800000000000000
+      internalID: -6101157535054298875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROLEWORLD_WIZARD_FREE ITEM_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb0a00f33ad42be0800000000000000
+      internalID: -1502836459029525507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROLEWORLD_WIZARD_FREE ITEM_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e9de3a413728d00800000000000000
+      internalID: 973467001952247409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROLEWORLD_WIZARD_FREE ITEM_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f776c8cb1499ea90800000000000000
+      internalID: -7284128075241588751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROLEWORLD_WIZARD_FREE ITEM_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b36c46f808a3f60800000000000000
+      internalID: 8014859840218610527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROLEWORLD_WIZARD_FREE ITEM_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0cf1b2f1a7d8140800000000000000
+      internalID: 4723565858467594487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ROLEWORLD_WIZARD_FREE ITEM_0: -5979817360535769226
+      ROLEWORLD_WIZARD_FREE ITEM_1: 5404011839744765351
+      ROLEWORLD_WIZARD_FREE ITEM_2: 413531942579354819
+      ROLEWORLD_WIZARD_FREE ITEM_3: 6381615262501586334
+      ROLEWORLD_WIZARD_FREE ITEM_4: -6101157535054298875
+      ROLEWORLD_WIZARD_FREE ITEM_5: -1502836459029525507
+      ROLEWORLD_WIZARD_FREE ITEM_6: 973467001952247409
+      ROLEWORLD_WIZARD_FREE ITEM_7: -7284128075241588751
+      ROLEWORLD_WIZARD_FREE ITEM_8: 8014859840218610527
+      ROLEWORLD_WIZARD_FREE ITEM_9: 4723565858467594487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

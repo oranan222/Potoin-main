@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 008ebe72e04902a478c030e670b437c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3670868489503499879
+    second: glow-mushrooms-orange_64px_top-down_shadow_0
+  - first:
+      213: -8751033228690639171
+    second: glow-mushrooms-orange_64px_top-down_shadow_1
+  - first:
+      213: 3616045544344955086
+    second: glow-mushrooms-orange_64px_top-down_shadow_2
+  - first:
+      213: 9113885386408908965
+    second: glow-mushrooms-orange_64px_top-down_shadow_3
+  - first:
+      213: -402424030956825083
+    second: glow-mushrooms-orange_64px_top-down_shadow_4
+  - first:
+      213: 7756764033819657525
+    second: glow-mushrooms-orange_64px_top-down_shadow_5
+  - first:
+      213: 2223388005026356413
+    second: glow-mushrooms-orange_64px_top-down_shadow_6
+  - first:
+      213: 8154459310257967537
+    second: glow-mushrooms-orange_64px_top-down_shadow_7
+  - first:
+      213: 2178350461275778075
+    second: glow-mushrooms-orange_64px_top-down_shadow_8
+  - first:
+      213: 5399480668800370619
+    second: glow-mushrooms-orange_64px_top-down_shadow_9
+  - first:
+      213: -20630741920003873
+    second: glow-mushrooms-orange_64px_top-down_shadow_10
+  - first:
+      213: 7736125564812665021
+    second: glow-mushrooms-orange_64px_top-down_shadow_11
+  - first:
+      213: -7235455767259043636
+    second: glow-mushrooms-orange_64px_top-down_shadow_12
+  - first:
+      213: 6122028658727853948
+    second: glow-mushrooms-orange_64px_top-down_shadow_13
+  - first:
+      213: 4021604452085835182
+    second: glow-mushrooms-orange_64px_top-down_shadow_14
+  - first:
+      213: 8063189475016449555
+    second: glow-mushrooms-orange_64px_top-down_shadow_15
+  - first:
+      213: -1498130942379885610
+    second: glow-mushrooms-orange_64px_top-down_shadow_16
+  - first:
+      213: 8765729779557661090
+    second: glow-mushrooms-orange_64px_top-down_shadow_17
+  - first:
+      213: 1931411802593658591
+    second: glow-mushrooms-orange_64px_top-down_shadow_18
+  - first:
+      213: 402545904187638713
+    second: glow-mushrooms-orange_64px_top-down_shadow_19
+  - first:
+      213: 6064188967817024475
+    second: glow-mushrooms-orange_64px_top-down_shadow_20
+  - first:
+      213: -2001555718516028564
+    second: glow-mushrooms-orange_64px_top-down_shadow_21
+  - first:
+      213: 3885625628795270604
+    second: glow-mushrooms-orange_64px_top-down_shadow_22
+  - first:
+      213: 6202326795853598428
+    second: glow-mushrooms-orange_64px_top-down_shadow_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766e70e217b81f230800000000000000
+      internalID: 3670868489503499879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6314ab4a51e8680800000000000000
+      internalID: -8751033228690639171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8a0529346ce2230800000000000000
+      internalID: 3616045544344955086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8d684b8760b7e70800000000000000
+      internalID: 9113885386408908965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506dcb9d97d4a6af0800000000000000
+      internalID: -402424030956825083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c85aaacf85ab60800000000000000
+      internalID: 7756764033819657525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcd57d4c9f0bde10800000000000000
+      internalID: 2223388005026356413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19d4bd9857a2170800000000000000
+      internalID: 8154459310257967537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ca6a0043e0b3e10800000000000000
+      internalID: 2178350461275778075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb74f638f0fceea40800000000000000
+      internalID: 5399480668800370619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8c7641374b6bff0800000000000000
+      internalID: -20630741920003873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db02a74a63d3c5b60800000000000000
+      internalID: 7736125564812665021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc82974905f769b90800000000000000
+      internalID: -7235455767259043636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f1c3411a0d5f450800000000000000
+      internalID: 6122028658727853948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5a4b911fb9fc730800000000000000
+      internalID: 4021604452085835182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e160f5b1436ef60800000000000000
+      internalID: 8063189475016449555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbfc6868d1953be0800000000000000
+      internalID: -1498130942379885610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9f89baac026a970800000000000000
+      internalID: 8765729779557661090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd687982dc0cdca10800000000000000
+      internalID: 1931411802593658591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b384e8fd51269500800000000000000
+      internalID: 402545904187638713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3939d9cb3582450800000000000000
+      internalID: 6064188967817024475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b43bfbdab0934e0800000000000000
+      internalID: -2001555718516028564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5fe762ce38ce530800000000000000
+      internalID: 3885625628795270604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glow-mushrooms-orange_64px_top-down_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde8db70c57131650800000000000000
+      internalID: 6202326795853598428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      glow-mushrooms-orange_64px_top-down_shadow_0: 3670868489503499879
+      glow-mushrooms-orange_64px_top-down_shadow_1: -8751033228690639171
+      glow-mushrooms-orange_64px_top-down_shadow_10: -20630741920003873
+      glow-mushrooms-orange_64px_top-down_shadow_11: 7736125564812665021
+      glow-mushrooms-orange_64px_top-down_shadow_12: -7235455767259043636
+      glow-mushrooms-orange_64px_top-down_shadow_13: 6122028658727853948
+      glow-mushrooms-orange_64px_top-down_shadow_14: 4021604452085835182
+      glow-mushrooms-orange_64px_top-down_shadow_15: 8063189475016449555
+      glow-mushrooms-orange_64px_top-down_shadow_16: -1498130942379885610
+      glow-mushrooms-orange_64px_top-down_shadow_17: 8765729779557661090
+      glow-mushrooms-orange_64px_top-down_shadow_18: 1931411802593658591
+      glow-mushrooms-orange_64px_top-down_shadow_19: 402545904187638713
+      glow-mushrooms-orange_64px_top-down_shadow_2: 3616045544344955086
+      glow-mushrooms-orange_64px_top-down_shadow_20: 6064188967817024475
+      glow-mushrooms-orange_64px_top-down_shadow_21: -2001555718516028564
+      glow-mushrooms-orange_64px_top-down_shadow_22: 3885625628795270604
+      glow-mushrooms-orange_64px_top-down_shadow_23: 6202326795853598428
+      glow-mushrooms-orange_64px_top-down_shadow_3: 9113885386408908965
+      glow-mushrooms-orange_64px_top-down_shadow_4: -402424030956825083
+      glow-mushrooms-orange_64px_top-down_shadow_5: 7756764033819657525
+      glow-mushrooms-orange_64px_top-down_shadow_6: 2223388005026356413
+      glow-mushrooms-orange_64px_top-down_shadow_7: 8154459310257967537
+      glow-mushrooms-orange_64px_top-down_shadow_8: 2178350461275778075
+      glow-mushrooms-orange_64px_top-down_shadow_9: 5399480668800370619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

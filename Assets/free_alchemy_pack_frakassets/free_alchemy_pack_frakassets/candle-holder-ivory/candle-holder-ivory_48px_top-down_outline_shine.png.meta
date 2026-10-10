@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: b09b294059da7b94aaa1b5cffb5c389e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7509247712110200101
+    second: candle-holder-ivory_48px_top-down_outline_shine_0
+  - first:
+      213: 8992475258893689689
+    second: candle-holder-ivory_48px_top-down_outline_shine_1
+  - first:
+      213: 9097537388421760309
+    second: candle-holder-ivory_48px_top-down_outline_shine_2
+  - first:
+      213: 6840573034978566190
+    second: candle-holder-ivory_48px_top-down_outline_shine_3
+  - first:
+      213: 299762805551245434
+    second: candle-holder-ivory_48px_top-down_outline_shine_4
+  - first:
+      213: 1628210733009110924
+    second: candle-holder-ivory_48px_top-down_outline_shine_5
+  - first:
+      213: -7462109749864002649
+    second: candle-holder-ivory_48px_top-down_outline_shine_6
+  - first:
+      213: 8170264982151343372
+    second: candle-holder-ivory_48px_top-down_outline_shine_7
+  - first:
+      213: -8848263398198377907
+    second: candle-holder-ivory_48px_top-down_outline_shine_8
+  - first:
+      213: -4393582220445330784
+    second: candle-holder-ivory_48px_top-down_outline_shine_9
+  - first:
+      213: -8337142555210670014
+    second: candle-holder-ivory_48px_top-down_outline_shine_10
+  - first:
+      213: 5065086205885198016
+    second: candle-holder-ivory_48px_top-down_outline_shine_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5254eba2205363860800000000000000
+      internalID: 7509247712110200101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953e8d19a90bbcc70800000000000000
+      internalID: 8992475258893689689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c6bfcd02f04e70800000000000000
+      internalID: 9097537388421760309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e206302bee89eee50800000000000000
+      internalID: 6840573034978566190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78a1c5fea8f82400800000000000000
+      internalID: 299762805551245434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c878c78f801989610800000000000000
+      internalID: 1628210733009110924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab806ce7b2417890800000000000000
+      internalID: -7462109749864002649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0da1fd96bc926170800000000000000
+      internalID: 8170264982151343372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d428b47c157a43580800000000000000
+      internalID: -8848263398198377907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a252eaaf3cd603c0800000000000000
+      internalID: -4393582220445330784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24020e2a4058c4c80800000000000000
+      internalID: -8337142555210670014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candle-holder-ivory_48px_top-down_outline_shine_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cea48a711dca4640800000000000000
+      internalID: 5065086205885198016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      candle-holder-ivory_48px_top-down_outline_shine_0: 7509247712110200101
+      candle-holder-ivory_48px_top-down_outline_shine_1: 8992475258893689689
+      candle-holder-ivory_48px_top-down_outline_shine_10: -8337142555210670014
+      candle-holder-ivory_48px_top-down_outline_shine_11: 5065086205885198016
+      candle-holder-ivory_48px_top-down_outline_shine_2: 9097537388421760309
+      candle-holder-ivory_48px_top-down_outline_shine_3: 6840573034978566190
+      candle-holder-ivory_48px_top-down_outline_shine_4: 299762805551245434
+      candle-holder-ivory_48px_top-down_outline_shine_5: 1628210733009110924
+      candle-holder-ivory_48px_top-down_outline_shine_6: -7462109749864002649
+      candle-holder-ivory_48px_top-down_outline_shine_7: 8170264982151343372
+      candle-holder-ivory_48px_top-down_outline_shine_8: -8848263398198377907
+      candle-holder-ivory_48px_top-down_outline_shine_9: -4393582220445330784
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

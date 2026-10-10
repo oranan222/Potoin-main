@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 0ba10ec4881b998409bdba000894abd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7512472206387757629
+    second: cauldron-green_64px_top-down_no-outline_glow_0
+  - first:
+      213: -6862507152132562078
+    second: cauldron-green_64px_top-down_no-outline_glow_1
+  - first:
+      213: -7992901423943179586
+    second: cauldron-green_64px_top-down_no-outline_glow_2
+  - first:
+      213: 8066833187500578195
+    second: cauldron-green_64px_top-down_no-outline_glow_3
+  - first:
+      213: 1155625457685159420
+    second: cauldron-green_64px_top-down_no-outline_glow_4
+  - first:
+      213: 8738536739663320708
+    second: cauldron-green_64px_top-down_no-outline_glow_5
+  - first:
+      213: -5726656808874817251
+    second: cauldron-green_64px_top-down_no-outline_glow_6
+  - first:
+      213: 2228821579590530143
+    second: cauldron-green_64px_top-down_no-outline_glow_7
+  - first:
+      213: -5245927298259577338
+    second: cauldron-green_64px_top-down_no-outline_glow_8
+  - first:
+      213: 954615708032056235
+    second: cauldron-green_64px_top-down_no-outline_glow_9
+  - first:
+      213: -96919862532693663
+    second: cauldron-green_64px_top-down_no-outline_glow_10
+  - first:
+      213: -8920028313027994295
+    second: cauldron-green_64px_top-down_no-outline_glow_11
+  - first:
+      213: -3467750670115119370
+    second: cauldron-green_64px_top-down_no-outline_glow_12
+  - first:
+      213: 2482631284161633871
+    second: cauldron-green_64px_top-down_no-outline_glow_13
+  - first:
+      213: -6255283856086904085
+    second: cauldron-green_64px_top-down_no-outline_glow_14
+  - first:
+      213: -6853964277772020956
+    second: cauldron-green_64px_top-down_no-outline_glow_15
+  - first:
+      213: 141351031745256785
+    second: cauldron-green_64px_top-down_no-outline_glow_16
+  - first:
+      213: -3262517664282955109
+    second: cauldron-green_64px_top-down_no-outline_glow_17
+  - first:
+      213: 2563114276898582920
+    second: cauldron-green_64px_top-down_no-outline_glow_18
+  - first:
+      213: 7452840414689235080
+    second: cauldron-green_64px_top-down_no-outline_glow_19
+  - first:
+      213: -2894879445881110702
+    second: cauldron-green_64px_top-down_no-outline_glow_20
+  - first:
+      213: -7072919298215432512
+    second: cauldron-green_64px_top-down_no-outline_glow_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32ccbe3ba9a14860800000000000000
+      internalID: 7512472206387757629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263af80ba1a73c0a0800000000000000
+      internalID: -6862507152132562078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 41
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2272dc082831190800000000000000
+      internalID: -7992901423943179586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395dd4b4b0623ff60800000000000000
+      internalID: 8066833187500578195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 44
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdd8b22b3b990010800000000000000
+      internalID: 1155625457685159420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4861550bdd4854970800000000000000
+      internalID: 8738536739663320708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19c17439f3d680b0800000000000000
+      internalID: -5726656808874817251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 47
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54f737fa6d5eee10800000000000000
+      internalID: 2228821579590530143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60696b59ae8b237b0800000000000000
+      internalID: -5245927298259577338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 41
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab324ebde97f3d00800000000000000
+      internalID: 954615708032056235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1612f0606eba7aef0800000000000000
+      internalID: -96919862532693663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 44
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d1a877281b53480800000000000000
+      internalID: -8920028313027994295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 41
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe5a22732310efc0800000000000000
+      internalID: -3467750670115119370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ed9b8dff3147220800000000000000
+      internalID: 2482631284161633871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 41
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be254bc8974c039a0800000000000000
+      internalID: -6255283856086904085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4239e20adc3d1e0a0800000000000000
+      internalID: -6853964277772020956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d9fc3b30e26f100800000000000000
+      internalID: 141351031745256785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 35
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b923afa487539b2d0800000000000000
+      internalID: -3262517664282955109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 41
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881b549dad2029320800000000000000
+      internalID: 2563114276898582920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8801a3dcedecd6760800000000000000
+      internalID: 7452840414689235080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f3da05b7253d7d0800000000000000
+      internalID: -2894879445881110702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cauldron-green_64px_top-down_no-outline_glow_21
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 35
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce2dd84f51f7dd90800000000000000
+      internalID: -7072919298215432512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cauldron-green_64px_top-down_no-outline_glow_0: 7512472206387757629
+      cauldron-green_64px_top-down_no-outline_glow_1: -6862507152132562078
+      cauldron-green_64px_top-down_no-outline_glow_10: -96919862532693663
+      cauldron-green_64px_top-down_no-outline_glow_11: -8920028313027994295
+      cauldron-green_64px_top-down_no-outline_glow_12: -3467750670115119370
+      cauldron-green_64px_top-down_no-outline_glow_13: 2482631284161633871
+      cauldron-green_64px_top-down_no-outline_glow_14: -6255283856086904085
+      cauldron-green_64px_top-down_no-outline_glow_15: -6853964277772020956
+      cauldron-green_64px_top-down_no-outline_glow_16: 141351031745256785
+      cauldron-green_64px_top-down_no-outline_glow_17: -3262517664282955109
+      cauldron-green_64px_top-down_no-outline_glow_18: 2563114276898582920
+      cauldron-green_64px_top-down_no-outline_glow_19: 7452840414689235080
+      cauldron-green_64px_top-down_no-outline_glow_2: -7992901423943179586
+      cauldron-green_64px_top-down_no-outline_glow_20: -2894879445881110702
+      cauldron-green_64px_top-down_no-outline_glow_21: -7072919298215432512
+      cauldron-green_64px_top-down_no-outline_glow_3: 8066833187500578195
+      cauldron-green_64px_top-down_no-outline_glow_4: 1155625457685159420
+      cauldron-green_64px_top-down_no-outline_glow_5: 8738536739663320708
+      cauldron-green_64px_top-down_no-outline_glow_6: -5726656808874817251
+      cauldron-green_64px_top-down_no-outline_glow_7: 2228821579590530143
+      cauldron-green_64px_top-down_no-outline_glow_8: -5245927298259577338
+      cauldron-green_64px_top-down_no-outline_glow_9: 954615708032056235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
